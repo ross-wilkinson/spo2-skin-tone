@@ -1,0 +1,9 @@
+# Data and anything derived from it stays out of the repo until reviewed.
+data/
+*.zip
+inventory_report.txt
+reports/
+
+__pycache__/
+*.pyc
+.venv/
