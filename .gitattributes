@@ -1,0 +1,5 @@
+# Keep line endings as LF everywhere, so files match byte for byte across machines.
+* text=auto eol=lf
+*.pdf binary
+*.png binary
+*.xpt binary

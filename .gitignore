@@ -7,3 +7,6 @@ reports/
 __pycache__/
 *.pyc
 .venv/
+
+# Copies of source papers: kept locally, never tracked.
+raw/
